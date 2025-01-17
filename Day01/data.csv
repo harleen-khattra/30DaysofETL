@@ -1,0 +1,51 @@
+id,name,age,salary,department,joining_date,experience,city
+1,John Doe,29,55000,Sales,2018-05-14,5,New York
+2,Mary Ann,,62000,Engineering,2019-07-01,4,Los Angeles
+3,Steve Smith,32,,Marketing,2017-03-22,6,San Francisco
+4,Anna White,25,48000,Sales,2020-10-10,2,Boston
+5,Chris Brown,35,73000,Engineering,,10,Seattle
+6,Linda Blue,28,51000,Marketing,2021-12-01,3,New York
+7,James Green,31,,Sales,2016-06-15,7,Chicago
+8,Karen Black,34,60000,,2015-01-10,9,Houston
+9,Tom Harris,30,56000,Sales,2018-09-01,5,Boston
+10,Emma Stone,27,58000,Engineering,2020-04-15,3,Los Angeles
+11,Michael Scott,41,90000,HR,2012-07-15,15,New York
+12,Pam Beesly,30,50000,Marketing,2019-01-11,5,Philadelphia
+13,Dwight Schrute,34,70000,Sales,2015-04-23,8,Scranton
+14,Jim Halpert,33,68000,Sales,2016-03-02,7,New York
+15,Angela Martin,36,75000,Finance,2010-09-18,12,Houston
+16,Oscar Martinez,39,,Finance,2011-08-19,13,Los Angeles
+17,Stanley Hudson,50,60000,Sales,2005-06-15,20,Chicago
+18,Ryan Howard,26,,Marketing,2021-10-05,2,Seattle
+19,Kelly Kapoor,28,52000,HR,2020-07-12,4,Boston
+20,Toby Flenderson,45,80000,HR,2009-02-25,18,San Francisco
+21,Kevin Malone,38,65000,Finance,2014-03-12,10,Houston
+22,Creed Bratton,58,,HR,2000-01-01,25,New York
+23,Holly Flax,42,88000,HR,2013-10-14,12,Denver
+24,Meredith Palmer,46,49000,Marketing,2007-08-17,15,Philadelphia
+25,Darryl Philbin,40,72000,Engineering,2012-11-09,11,Chicago
+26,Jan Levinson,44,,Marketing,2011-05-20,13,New York
+27,David Wallace,47,150000,Finance,2003-02-14,20,Los Angeles
+28,Andy Bernard,34,58000,Sales,2018-06-01,5,New York
+29,Erin Hannon,27,48000,HR,2019-12-15,3,Boston
+30,Gabe Lewis,30,54000,Marketing,2016-05-19,7,San Francisco
+31,Robert California,50,120000,Sales,2000-04-01,25,Houston
+32,Nellie Bertram,45,65000,HR,2013-07-10,12,Chicago
+33,Clark Green,29,48000,Sales,2020-01-23,3,Boston
+34,Pete Miller,30,51000,Sales,2019-09-15,4,Boston
+35,Nate Nickerson,32,52000,Engineering,2018-04-20,6,New York
+36,Jordan Garfield,25,49000,Marketing,2021-06-18,2,Seattle
+37,Hank Tate,53,,HR,1999-05-12,30,New York
+38,Esther Bruegger,28,51000,Finance,2018-08-11,4,Los Angeles
+39,Jo Bennett,62,180000,CEO,1995-03-15,35,Miami
+40,Charles Miner,41,92000,Engineering,2013-11-25,12,Chicago
+41,Deangelo Vickers,43,91000,Marketing,2011-06-30,12,Houston
+42,Kathy Simms,36,60000,Sales,2017-02-17,8,Boston
+43,Val Johnson,39,65000,Engineering,2014-10-22,10,Seattle
+44,Danny Cordray,35,58000,Sales,2015-03-13,8,Philadelphia
+45,Roy Anderson,38,49000,Warehouse,2010-12-02,12,New York
+46,Clark Duke,29,52000,Sales,2021-07-01,2,Los Angeles
+47,Pete Davidson,27,50000,Marketing,2020-09-08,3,Boston
+48,Bob Vance,42,87000,Engineering,2012-02-29,12,New York
+49,Sadie Tanner,30,,Sales,2019-11-21,4,Seattle
+50,Nina Howard,35,68000,Marketing,2017-08-16,6,Houston
