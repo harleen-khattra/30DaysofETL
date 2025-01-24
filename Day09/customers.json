@@ -1,0 +1,6 @@
+[
+    {"customer_id": 101, "customer_name": "Alice", "city": "New York", "segment": "Individual"},
+    {"customer_id": 102, "customer_name": "Bob", "city": "Los Angeles", "segment": "Corporate"},
+    {"customer_id": 103, "customer_name": "Charlie", "city": "Chicago", "segment": "Individual"},
+    {"customer_id": 104, "customer_name": "Diana", "city": "Houston", "segment": "SME"}
+]
